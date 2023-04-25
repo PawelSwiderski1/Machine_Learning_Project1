@@ -1,6 +1,6 @@
 # Machine_Learning_Project1
 
-The project aims to develop a machine learning model for binary classification using the Feature Selection Notebook dataset(https://www.kaggle.com/code/nextbigwhat/feature-selection-notebook/input?select=dataset_1.csv). The dataset contains a large collection of float and int numbers and binary 'target' variable we aim to predict. 
+The project aims to develop a machine learning model for binary classification using the Feature Selection Notebook dataset (https://www.kaggle.com/code/nextbigwhat/feature-selection-notebook/input?select=dataset_1.csv). The dataset contains a large collection of float and int numbers and binary 'target' variable we aim to predict. 
 
 Big part of this project was feature selection. Troughout the process of working on this project we went back and forth on many different ways of selecting the right columns. The evolution can be seen in the stages of our project right up to the final version. The decision as to what techniques were best we made based on the results using the models. Finally we decided on two options, one including RFE (recursive feature elimination).
 
